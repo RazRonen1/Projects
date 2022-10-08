@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "Final Project SSIS Raz And Gal", "Final Project SSIS Raz And Gal\Final Project SSIS Raz And Gal.dtproj", "{C1C5F8B7-CF65-490C-B4C0-8FBA91E221E6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C1C5F8B7-CF65-490C-B4C0-8FBA91E221E6}.Development|Default.ActiveCfg = Development
+		{C1C5F8B7-CF65-490C-B4C0-8FBA91E221E6}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7A8C7DEE-ECEE-48C2-A91A-AADF8CB0F1DB}
+	EndGlobalSection
+EndGlobal
